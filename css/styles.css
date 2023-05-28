@@ -4,17 +4,15 @@ body {
 
 /*--header--*/
 .header-logo {
-  font-family: "Raleway";
-  font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: #2e2f42;
 }
 
 span {
   color: #4d5ae5;
+  color: #2e2f42;
 }
 .header-menu-item {
   color: #2e2f42;
@@ -98,7 +96,6 @@ span {
 
 /* section one index */
 .section-one-text {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -108,7 +105,6 @@ span {
 
 /* section two index */
 .section-two-header {
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -120,7 +116,6 @@ span {
 /* section three index */
 
 .sectioin-three-header {
-  font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -130,7 +125,6 @@ span {
   color: #2e2f42;
 }
 .section-three-name {
-  font-style: normal;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -139,7 +133,6 @@ span {
   color: #2e2f42;
 }
 .section-three-work {
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
