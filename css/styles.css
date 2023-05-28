@@ -6,6 +6,7 @@ body {
 
 /*--header--*/
 .header-logo {
+  font-family: "Raleway";
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
@@ -141,8 +142,12 @@ body {
   color: #434455;
 }
 background: #f4f4fd;
+
 /* footer */
 
+.footer {
+  font-family: "Raleway";
+}
 .footer-logo span {
   color: #f4f4fd;
 }
