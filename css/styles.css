@@ -37,11 +37,11 @@ body {
 
 .section-menu-item {
   font-family: "Roboto", sans-serif;
-  font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  background: #f4f4fd;
   color: #4d5ae5;
 }
 .link:focus {
@@ -140,6 +140,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
+background: #f4f4fd;
 /* footer */
 
 .footer-logo span {
