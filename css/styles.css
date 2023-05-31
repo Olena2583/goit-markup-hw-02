@@ -65,7 +65,7 @@ body {
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--brand-color);
 }
 .main-application {
   font-weight: 400;
@@ -83,7 +83,7 @@ body {
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: #ffffff;
-  background: #2e2f42;
+  background: var(--brand-color);
 }
 
 .hero-btn {
@@ -92,6 +92,7 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer;
   color: #ffffff;
   background: #4d5ae5;
 }
@@ -115,7 +116,7 @@ body {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--brand-color);
 }
 /* section three index */
 
@@ -126,14 +127,14 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  color: #2e2f42;
+  color: var(--brand-color);
 }
 .section-three-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  color: var(--brand-color);
 }
 .section-three-work {
   font-weight: 400;
@@ -152,7 +153,7 @@ background: #f4f4fd;
   color: #f4f4fd;
 }
 .footer {
-  background: #2e2f42;
+  background: var(--brand-color);
 }
 .footer-text {
   font-style: normal;
