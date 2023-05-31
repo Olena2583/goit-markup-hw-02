@@ -60,7 +60,6 @@ span {
   font-weight: 700;
   font-size: 56px;
   line-height: 1.07;
-  text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
   background: var(--brand-color);
@@ -82,7 +81,6 @@ span {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: ;
 }
 
 /*  section three index */
@@ -92,7 +90,6 @@ span {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  text-align: center;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--brand-color);
@@ -105,9 +102,7 @@ span {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  text-align: center;
   letter-spacing: 0.02em;
-  text-transform: capitalize;
   color: var(--brand-color);
 }
 .section-foure-title {
@@ -115,7 +110,6 @@ span {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  text-align: center;
   letter-spacing: 0.02em;
   color: var(--brand-color);
 }
@@ -124,7 +118,6 @@ span {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
-  text-align: center;
   letter-spacing: 0.02em;
 }
 .footer-text {
@@ -150,9 +143,6 @@ span {
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
-  display: flex;
-  align-items: center;
-  text-align: center;
   letter-spacing: 0.04em;
   color: #ffffff;
 }
