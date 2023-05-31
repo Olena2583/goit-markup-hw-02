@@ -4,7 +4,7 @@ body {
   background-color: #ffffff;
 }
 :root {
-  --brand-color: #2e2f42;
+  --brand-color: #2e2f42, #4d5ae5;
 }
 /*--header--*/
 
@@ -46,7 +46,7 @@ body {
   line-height: 1.5;
   letter-spacing: 0.04em;
   background: #f4f4fd;
-  color: #4d5ae5;
+  color: var(--brand-color);
 }
 .link:focus {
   background: #404bbf;
