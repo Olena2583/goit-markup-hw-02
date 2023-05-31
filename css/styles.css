@@ -4,7 +4,7 @@ body {
   background-color: #ffffff;
 }
 :root {
-  --brand-color: var(--brand-color);
+  --brand-color: #2e2f42;
 }
 span {
   color: #4d5ae5;
