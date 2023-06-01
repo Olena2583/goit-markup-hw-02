@@ -60,9 +60,11 @@ span {
 }
 /* sectione one index */
 
-.main-section-one .link:hover,
-.link:focus {
+.main-section-one .link:hover {
   background-color: #404bbf;
+}
+
+.main-section-one .link:focus {
   background: #2e2f42;
 }
 .main-section-one .link {
@@ -76,6 +78,10 @@ span {
   align-items: center;
   letter-spacing: 0.04em;
   color: #ffffff;
+  cursor: pointer;
+}
+.main-section-one {
+  background: #2e2f42;
 }
 .main-header {
   font-style: normal;
