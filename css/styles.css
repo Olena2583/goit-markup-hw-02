@@ -60,13 +60,11 @@ span {
 }
 /* sectione one index */
 
-.main-section-one.link:hover {
+.main-section-one.link:hover,
+.link:focus {
   background: #404bbf;
 }
 
-.main-section-one .link:focus {
-  background-color: #404bbf;
-}
 .main-section-one .link {
   background: #4d5ae5;
   font-family: "Roboto", sans-serif;
