@@ -67,7 +67,6 @@ span {
   background: #4d5ae5;
 }
 .main-header {
-  font-family: "Roboto";
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
@@ -75,7 +74,6 @@ span {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
-  font-family: "Roboto", sans-serif;
 }
 
 /* section two index */
