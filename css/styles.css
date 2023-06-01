@@ -4,7 +4,7 @@ body {
   background-color: #ffffff;
 }
 :root {
-  --brand-color: #2e2f42, #404bbf;
+  --brand-color: #2e2f42;
 }
 span {
   color: #4d5ae5;
@@ -30,6 +30,10 @@ span {
   list-style: none;
 }
 /* <!-- header index --> */
+
+.address {
+  font-style: normal;
+}
 
 .header-link {
   font-style: normal;
