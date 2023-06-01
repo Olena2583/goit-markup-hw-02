@@ -4,10 +4,10 @@ body {
   background-color: #ffffff;
 }
 :root {
-  --brand-color: #2e2f42;
+  --brand-color: #2e2f42, #404bbf;,#4d5ae5;
 }
 span {
-  color: #4d5ae5;
+  color: var(--brand-color);
 }
 .header-logo {
   color: var(--brand-color);
@@ -30,7 +30,6 @@ span {
   font-weight: 400;
   font-size: 1.5;
   letter-spacing: 0.02em;
-  color: ;
 }
 .header-link .header-menu-link {
   color: var(--brand-color);
@@ -42,7 +41,7 @@ span {
 }
 .header-list .link:hover,
 .link:focus {
-  color: #404bbf;
+  color: var();
 }
 
 /* sectione one index */
@@ -50,7 +49,7 @@ span {
 .main-section-one .link:hover,
 .link:focus {
   color: #ffffff;
-  background: #404bbf;
+  background: var(--brand-color);
 }
 .main-section-one .link {
   background: #4d5ae5;
@@ -132,7 +131,7 @@ span {
 /* section porfolio */
 .section-menu .item:hover,
 .item:focus {
-  background: #404bbf;
+  background: var(--brand-color);
   color: #ffffff;
 }
 
