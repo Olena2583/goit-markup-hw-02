@@ -4,13 +4,13 @@ body {
   background-color: #ffffff;
 }
 :root {
-  --brand-color: #2e2f42, #404bbf;,#4d5ae5;
+  --brand-color: #2e2f42, #404bbf;
 }
 span {
-  color: var(--brand-color);
+  color: #4d5ae5;
 }
 .header-logo {
-  color: var(--brand-color);
+  color: #4d5ae5;
   font-family: "Raleway";
   font-style: normal;
   font-weight: 800;
@@ -32,7 +32,7 @@ span {
   letter-spacing: 0.02em;
 }
 .header-link .header-menu-link {
-  color: var(--brand-color);
+  color: #404bbf;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
@@ -41,7 +41,7 @@ span {
 }
 .header-list .link:hover,
 .link:focus {
-  color: var();
+  color: #404bbf;
 }
 
 /* sectione one index */
@@ -49,7 +49,7 @@ span {
 .main-section-one .link:hover,
 .link:focus {
   color: #ffffff;
-  background: var(--brand-color);
+  background: #2e2f42;
 }
 .main-section-one .link {
   background: #4d5ae5;
