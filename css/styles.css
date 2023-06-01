@@ -55,7 +55,9 @@ span {
 .link:focus {
   color: #404bbf;
 }
-
+.address {
+  font-style: normal;
+}
 /* sectione one index */
 
 .main-section-one .link:hover,
