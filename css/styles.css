@@ -17,9 +17,6 @@ body {
   --color-white-background-white: #ffffff;
   --color-modal-background-dairy: #fcfcfc;
 }
-span {
-  color: var(--color-primary-rand-iris);
-}
 
 .header-logo {
   color: var(--color-primary-rand-iris);
