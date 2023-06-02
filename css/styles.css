@@ -54,6 +54,10 @@ span {
   letter-spacing: 0.02em;
   color: var(--color-dark-navy-blue);
 }
+.header-menu-link .link:hover {
+  color: #404bbf;
+}
+
 .header-list-link {
   font-family: "Roboto", sans-serif;
   font-style: normal;
