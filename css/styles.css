@@ -49,10 +49,10 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--color-dark-navy-blue);
+  color: #434455;
 }
 .header-menu-link .link:hover {
-  color: #404bbf;
+  color: var(--color-pressed-state-ocean);
 }
 
 .header-list-link {
@@ -65,9 +65,9 @@ body {
   color: var(--color-text-slate);
 }
 
-.header-list .link:hover,
+.header-link .link:hover,
 .link:focus {
-  color: var(--color-pressed-state-ocean);
+  color: #404bbf;
 }
 .address {
   font-style: normal;
