@@ -46,22 +46,24 @@ span {
 .address {
   font-style: normal;
 }
-
-.header-link {
+.header-menu {
   font-style: normal;
-  font-weight: 400;
-  font-size: 1.5;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--color-dark-navy-blue);
 }
-
-.header-link .header-list-link {
-  color: var(--color-text-slate);
+.header-list-link {
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--color-text-slate);
 }
+
 .header-list .link:hover,
 .link:focus {
   color: var(--color-pressed-state-ocean);
