@@ -139,7 +139,7 @@ body {
 .logo {
   color: var(--color-light-cloud);
 }
-.footer-text p {
+.footer-text {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
