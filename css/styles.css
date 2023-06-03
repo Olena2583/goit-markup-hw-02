@@ -49,8 +49,10 @@ body {
   color: var(--color-dark-navy-blue);
 }
 
-.heade-menu .header-link:focus,
-.header-link:hover {
+.header-menu-item .header-link:focus {
+  color: var(--color-pressed-state-ocean);
+}
+.header-menu-item .header-link:hover {
   color: var(--color-pressed-state-ocean);
 }
 .address {
