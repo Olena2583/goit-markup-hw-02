@@ -47,9 +47,9 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-dark-navy-blue);
 }
-.heade-menu .link:focus,
-.link:hover {
-  color: var(--color-pressed-state-ocean);
+.heade-menu .header-link:focus,
+.header-link:hover {
+  color: #404bbf;
 }
 .address {
   font-style: normal;
