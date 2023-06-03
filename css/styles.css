@@ -49,7 +49,7 @@ body {
 }
 .heade-menu .header-link:focus,
 .header-link:hover {
-  color: #404bbf;
+  color: var(--color-pressed-state-ocean);
 }
 .address {
   font-style: normal;
@@ -76,9 +76,21 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
-  background: #2e2f42;
+  background: var(--color-modal-overlay-navy-blue-modal);
 }
-
+.hero-btn {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
+  cursor: pointer;
+}
+.section-one .hero-btn:hover,
+.hero-btn:focus {
+  color: var(--color-pressed-state-ocean);
+}
 /* section two index */
 
 .section-two-target {
@@ -124,7 +136,7 @@ body {
   text-transform: uppercase;
   color: var(--color-primary-rand-iris);
 }
-.footer-logo span {
+.logo {
   color: var(--color-light-cloud);
 }
 .footer-text p {
