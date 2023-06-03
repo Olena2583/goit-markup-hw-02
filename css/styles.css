@@ -156,9 +156,6 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-
-  /* SLATE */
-
   color: var(--color-text-slate);
 }
 
@@ -200,14 +197,23 @@ body {
   color: var(--color-white-background-white);
 }
 
-.section-menu .item {
-  background: var(--color-primary-rand-iris);
+.item {
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
-  color: ;
+  color: var(--color-white-background-white);
+}
+.pointer {
+  cursor: pointer;
+}
+.menu-target .item:hover {
+  background-color: var(--color-pressed-state-ocean);
+}
+.menu-target .item:focus {
+  background-color: var(--color-pressed-state-ocean);
 }
 .main-name {
   font-style: normal;
