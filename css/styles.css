@@ -214,8 +214,9 @@ body {
   letter-spacing: 0.04em;
   cursor: pointer;
   color: var(--color-white-background-white);
+  color: var(--color-primary-rand-iris);
+  background-color: var(--color-light-cloud);
 }
-
 .menu-target .item:hover {
   background-color: var(--color-pressed-state-ocean);
 }
