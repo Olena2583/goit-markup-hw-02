@@ -72,6 +72,9 @@ body {
 }
 
 /* sectione one index */
+.section-one {
+  background-color: var(--color-dark-navy-blue);
+}
 .main-title {
   font-style: normal;
   font-weight: 700;
