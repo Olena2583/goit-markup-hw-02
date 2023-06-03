@@ -131,6 +131,36 @@ body {
 }
 
 /* section foure index */
+.main-section-foure {
+  background-color: var(--color-light-cloud);
+}
+.section-foure-target {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: var(--color-dark-navy-blue);
+}
+
+.section-foure-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: var(--color-dark-navy-blue);
+}
+.section-foure-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+
+  /* SLATE */
+
+  color: var(--color-text-slate);
+}
 
 /* footer */
 .footer {
