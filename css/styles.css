@@ -136,14 +136,9 @@ body {
 /* section foure index */
 
 .main-section-foure {
-  background-color: var(--color-light-cloud);
-}
-.section-foure-list {
   background-color: #ffffff;
 }
-.main-section-foure {
-  background-color: var(--color-light-cloud);
-}
+
 .section-foure-target {
   text-align: center;
   font-size: 36px;
