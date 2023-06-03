@@ -223,6 +223,9 @@ body {
 .menu-target .item:focus {
   background-color: var(--color-pressed-state-ocean);
 }
+.list {
+  text-decoration: none;
+}
 .main-name {
   font-style: normal;
   font-weight: 500;
