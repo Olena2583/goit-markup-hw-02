@@ -135,10 +135,9 @@ body {
 
 /* section foure index */
 
-.main-section-foure {
+.section-three-list {
   background-color: #ffffff;
 }
-
 .section-foure-target {
   text-align: center;
   font-size: 36px;
@@ -146,6 +145,7 @@ body {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: var(--color-dark-navy-blue);
+  background-color: #f4f4fd;
 }
 
 .section-foure-title {
