@@ -27,10 +27,10 @@ body {
   line-height: 1.17;
   letter-spacing: 0.03em;
   text-transform: uppercase;
-  color: #4d5ae5;
+  color: var(--color-primary-rand-iris);
 }
 .header-logo span {
-  color: #2e2f42;
+  color: var(--color-dark-navy-blue);
 }
 .link {
   text-decoration: none;
@@ -116,15 +116,17 @@ body {
   background: var(--color-dark-navy-blue);
 }
 .footer-logo {
+  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
   letter-spacing: 0.03em;
-  color: var(--color-light-cloud);
+  text-transform: uppercase;
+  color: var(--color-primary-rand-iris);
 }
 .footer-logo span {
-  color: var(--color-primary-rand-iris);
+  color: var(--color-light-cloud);
 }
 .footer-text p {
   font-style: normal;
