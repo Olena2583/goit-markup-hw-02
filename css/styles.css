@@ -24,13 +24,10 @@ body {
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  display: flex;
-  align-items: center;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: var(--color-dark-navy-blue);
 }
-span {
+.header-logo span {
   color: var(--color-primary-rand-iris);
 }
 .link {
@@ -111,13 +108,11 @@ span {
 /*  section three index */
 
 .section-three-target {
-  letter-spacing: 0.02em;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  text-align: center;
-  text-transform: capitalize;
+  letter-spacing: 0.02em;
   color: var(--color-dark-navy-blue);
 }
 
@@ -128,32 +123,23 @@ span {
   background: var(--color-dark-navy-blue);
 }
 .footer-logo {
-  width: 44px;
-  height: 21px;
-  font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
   font-size: 18px;
   line-height: 1.17;
-  display: flex;
-  align-items: center;
   letter-spacing: 0.03em;
-  text-transform: uppercase;
   color: var(--color-light-cloud);
 }
-
+.footer-logo span {
+  color: var(--color-primary-rand-iris);
+}
 .footer-text p {
-  position: absolute;
-  width: 264px;
-  height: 72px;
-  left: 156px;
-  top: 2420px;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #f4f4fd;
+  color: var(--color-light-cloud);
   background: var(--color-dark-navy-blue);
 }
 
