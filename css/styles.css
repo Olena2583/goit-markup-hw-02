@@ -80,7 +80,7 @@ body {
   text-align: center;
   letter-spacing: 0.02em;
   color: #ffffff;
-  background: var(--color-modal-overlay-navy-blue-modal);
+  background-color: var(--color-modal-overlay-navy-blue-modal);
 }
 .hero-btn {
   font-family: "Roboto", sans-serif;
@@ -131,6 +131,9 @@ body {
 }
 
 /* section foure index */
+.section-foure-list {
+  background-color: #ffffff;
+}
 .main-section-foure {
   background-color: var(--color-light-cloud);
 }
