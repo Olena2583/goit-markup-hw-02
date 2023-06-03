@@ -19,8 +19,6 @@ body {
 }
 
 .header-logo {
-  width: 71px;
-  height: 21px;
   font-family: "Raleway", sans-serif;
   font-style: normal;
   font-weight: 800;
@@ -53,6 +51,7 @@ span {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: #2e2f42;
 }
 .heade-menu .link {
   color: var(--color-dark-navy-blue);
