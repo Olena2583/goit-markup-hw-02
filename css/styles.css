@@ -63,13 +63,12 @@ body {
 }
 
 .header-lists .list-link:hover,
-.link:focus {
+.list-lin:focus {
   color: var(--color-pressed-state-ocean);
 }
 
 /* sectione one index */
 .main-title {
-  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 700;
   font-size: 56px;
