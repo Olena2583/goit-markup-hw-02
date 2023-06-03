@@ -17,6 +17,7 @@ body {
   --color-white-background-white: #ffffff;
   --color-modal-background-dairy: #fcfcfc;
 }
+/* header index */
 
 .header-logo {
   font-style: normal;
@@ -36,7 +37,6 @@ body {
 .list {
   list-style: none;
 }
-/* <!-- header index --> */
 
 .address {
   font-style: normal;
@@ -49,10 +49,7 @@ body {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.heade-menu .link {
-  color: var(--color-dark-navy-blue);
-}
-
+.heade-menu .link:focus,
 .header-menu .link:hover {
   color: var(--color-pressed-state-ocean);
 }
