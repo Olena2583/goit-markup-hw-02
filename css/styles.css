@@ -190,6 +190,9 @@ body {
 }
 
 /* section porfolio */
+.link {
+  text-decoration: none;
+}
 
 .header-address {
   font-style: normal;
@@ -207,11 +210,10 @@ body {
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  cursor: pointer;
   color: var(--color-white-background-white);
 }
-.pointer {
-  cursor: pointer;
-}
+
 .menu-target .item:hover {
   background-color: var(--color-pressed-state-ocean);
 }
