@@ -86,6 +86,8 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
   cursor: pointer;
+  background-color: var(--color-dark-navy-blue);
+  background: var(--color-primary-rand-iris);
 }
 .section-one .hero-btn:hover,
 .hero-btn:focus {
@@ -116,10 +118,9 @@ body {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
-  letter-spacing: 0.02em;
   text-align: center;
-  letter-spacing: 0.02em;
   text-transform: capitalize;
+  letter-spacing: 0.02em;
   color: var(--color-dark-navy-blue);
 }
 
