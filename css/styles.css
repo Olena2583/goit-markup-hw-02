@@ -154,6 +154,10 @@ body {
 }
 
 /* section porfolio */
+
+.header-address {
+  font-style: normal;
+}
 .section-menu .item:hover,
 .item:focus {
   background: var(--color-dark-navy-blue);
