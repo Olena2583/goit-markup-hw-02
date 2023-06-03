@@ -48,7 +48,7 @@ body {
   color: var(--color-dark-navy-blue);
 }
 .heade-menu .link:focus,
-.header-menu .link:hover {
+.link:hover {
   color: var(--color-pressed-state-ocean);
 }
 .address {
@@ -63,7 +63,7 @@ body {
 }
 
 .header-lists .list-link:hover,
-.list-lin:focus {
+.list-link:focus {
   color: var(--color-pressed-state-ocean);
 }
 
