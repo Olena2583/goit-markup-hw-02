@@ -93,7 +93,7 @@ body {
 }
 .section-one .hero-btn:hover,
 .hero-btn:focus {
-  color: var(--color-pressed-state-ocean);
+  background-color: var(--color-pressed-state-ocean);
 }
 /* section two index */
 
