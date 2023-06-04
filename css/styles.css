@@ -243,7 +243,7 @@ body {
   color: var(--color-dark-navy-blue);
 }
 
-.section-photo-list > p {
+.section-photo-list p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
