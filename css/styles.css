@@ -137,6 +137,7 @@ body {
 }
 
 /* section foure index */
+
 .section-foure-list {
   background-color: #ffffff;
 }
@@ -198,6 +199,7 @@ body {
 }
 
 /* section porfolio */
+
 .section-menu {
   text-decoration: none;
 }
@@ -232,7 +234,7 @@ body {
 .list {
   text-decoration: none;
 }
-.main-name {
+.section-photo-list > h3 {
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -241,7 +243,7 @@ body {
   color: var(--color-dark-navy-blue);
 }
 
-.main-text {
+.section-photo-list > p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
