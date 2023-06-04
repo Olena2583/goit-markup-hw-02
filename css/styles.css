@@ -200,7 +200,7 @@ body {
 
 /* section porfolio */
 
-.section-menu {
+.link {
   text-decoration: none;
 }
 
@@ -231,10 +231,8 @@ body {
 .menu-target .item:focus {
   background-color: var(--color-pressed-state-ocean);
 }
-.list {
-  text-decoration: none;
-}
-.section-photo-list > h3 {
+
+.section-photo-list > h2 {
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
