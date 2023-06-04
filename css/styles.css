@@ -122,6 +122,7 @@ body {
 
 /*  section three index */
 .section-three-target {
+  text-align: center;
   font-style: normal;
   font-weight: 700;
   font-size: 36px;
@@ -145,6 +146,7 @@ body {
 }
 
 .section-foure-target {
+  text-align: cente;
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
