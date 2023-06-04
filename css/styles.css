@@ -192,9 +192,6 @@ body {
 }
 
 /* section porfolio */
-.link {
-  text-decoration: none;
-}
 
 .header-address {
   font-style: normal;
@@ -204,7 +201,9 @@ body {
   background: var(--color-dark-navy-blue);
   color: var(--color-white-background-white);
 }
-
+.section-photo-list > li {
+  text-decoration: none;
+}
 .item {
   font-family: "Roboto", sans-serif;
   font-style: normal;
