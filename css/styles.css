@@ -230,7 +230,7 @@ body {
   background-color: var(--color-pressed-state-ocean);
 }
 
-.section-photo-list > h2 {
+.main-name {
   font-style: normal;
   font-weight: 500;
   font-size: 20px;
@@ -238,13 +238,13 @@ body {
   letter-spacing: 0.02em;
   color: var(--color-dark-navy-blue);
 }
-
 .section-photo-list p {
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
+  color: var(--color-text-slate);
 }
 .section-photo-list > src {
   width: 360px;
