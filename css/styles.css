@@ -1,8 +1,42 @@
+:root {
+  --iris: #4d5ae5;
+  --ocean: #404bbf;
+  --navy-blue: #2e2f42;
+  --green: #31d0aa;
+  --slate: #434455;
+  --light-slate: #8e8f99;
+  --cornflower: #e7e9fc;
+  --cloud: #f4f4fd;
+  --navy-blue-modal: rgba(46, 47, 66, 0.4);
+  --grey: rgba(46, 47, 66, 0.7);
+  --white: #fff;
+  --dairy: #fcfcfc;
+}
+
 body {
   background-color: #f4f4fd;
   color: #434455;
-  font-family: "Roboto", sans-serif;
+  font-family: "Roboto";
 }
 a {
   text-decoration: none;
+}
+
+/* headr */
+
+.list-link {
+  color: #434455;
+}
+.list-link:hover,
+.list-link:focus {
+  color: #404bbf;
+}
+
+/* hero image */
+
+.btn {
+  background-color: #4d5ae5;
+}
+.btn:hover {
+  background-color: #404bbf;
 }
