@@ -14,12 +14,16 @@
 }
 
 body {
-  background-color: #f4f4fd;
+  background-color: #ffffff;
   color: #434455;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
+  line-height: 1.5;
 }
 a {
   text-decoration: none;
+}
+ul {
+  list-style-type: none;
 }
 
 /* headr */
@@ -33,10 +37,21 @@ a {
 }
 
 /* hero image */
+.title {
+  font-size: 56px;
+  line-height: 1.07143;
+  letter-spacing: 0.02em;
+}
 
 .btn {
+  color: #ffffff;
   background-color: #4d5ae5;
+  cursor: pointer;
+  letter-spacing: 0.04em;
+  font-size: 16px;
+  font-weight: 500;
 }
+
 .btn:hover {
   background-color: #404bbf;
 }
